@@ -1,0 +1,72 @@
+Date	Day	Holiday
+1 January 2024	Monday	New Year's Day
+12 January 2024	Friday 	Birthday of Swami Vivekananda
+13 January 2024	Saturday	Second Saturday
+15 January 2024	Monday	Makara Sankaranthi / Pongal
+17 January 2024	Wednesday	Guru Gobind Singh Ji Birthday
+26 January 2024	Friday	Republic Day
+27 January 2024	Saturday	Fourth Saturday
+10 February 2024 	Saturday	Second Saturday 
+14 February 2024	Wednesday	Basant Panchami 
+15 February 2024	Thursday	Birthday of Md. Hazrat Ali/Lui-Ngai-Ni
+24 February 2024	Saturday	Guru Ravidas Ji Birthday
+25 February 2024	Sunday	Thaipusam
+8 March 2024	Friday	Mahashivratri
+9 March 2024	Saturday	Second Saturday
+23 March 2024	Saturday	Fourth Saturday
+25 March 2024	Monday	Holi
+29 March 2024	Friday	Good Friday
+1 April 2024	Monday	Annual Closing of Bank Accounts
+5 April 2024	Friday	Babu Jagjivan Ram's Birthday
+8 April 2024	Monday	Mahashivratri
+9 April 2024	Tuesday	Chaitra Sukladi/Gudi Padwa/Ugadi/Cheti Chand
+13 April 2024	Saturday	Second Saturday
+14 April 2024	Sunday	Tamil New Year
+21 April 2024	Sunday	Mahavir Jayanti
+27 April 2024	Saturday	Fourth Saturday
+7 May 2024	Tuesday	Birthday of Guru Rabindranath Tagore
+11 May 2024	Saturday	Second Saturday
+23 May 2024	Thursday	Budha Purnima
+25 May 2024	Saturday	Fourth Saturday
+8 June 2024	Saturday	Second Saturday
+10 June 2024	Monday	Martyrdom Day of Sri Guru Arjun Dev ji
+15 June 2024	Saturday	YMA Day
+16 June 2024	Sunday	Id-ul-Zuha (Bakrid)
+22 June 2024	Saturday	Fourth Saturday
+8 July 2024	Monday	Rath Yatra
+13 July 2024	Saturday	Second Saturday
+17 July 2024	Wednesday	Muharram
+27 July 2024	Saturday	Fourth Saturday
+10 August 2024	Saturday	Second Saturday
+15 August 2024	Thursday	Independence Day
+19 August 2024	Monday	Raksha Bandhan
+24 August 2024	Saturday	Fourth Saturday
+26 August 2024	Monday	Janmashtami (Vaishnva)
+5 September 2024	Thursday	Tithi of Srimanta Sankardeva
+7 September 2024	Saturday	Vinayagar Chaturthi
+14 September 2024	Saturday	Second Saturday
+15 September 2024	Sunday	Thiruvonam
+16 September 2024	Monday	Milad-un-Nabi or Id-e-Milad (Birthday of Prophet
+Mohammad)
+28 September 2024	Saturday	Fourth Saturday
+1 October 2024	Tuesday	Half-Yearly Closing of Bank Accounts
+2 October 2024	Wednesday	Mahatma Gandhi's Birthday
+11 October 2024	Friday	Ayudha Puja / Saraswathi Puja
+12 October 2024	Saturday	Second Saturday
+26 October 2024	Saturday	Fourth Saturday
+31 October 2024	Thursday	Diwali (Deepavali)
+1 November 2024	Friday	Laxmi Puja, Kannada Rajyotsava
+2 November 2024	Saturday	Govardhan Puja
+7 November 2024	Thursday	Chhath Puja
+9 November 2024	Saturday	Second Saturday
+15 November 2024	Friday	Guru Nanak's Birthday
+18 November 2024	Monday	Kanakadasa Jayanthi
+23 November 2024	Saturday	Fourth Saturday
+3 December 2024	Saturday	Feast of St. Francis Xavier
+14 December 2024	Saturday	Second Saturday
+25 December 2024	Wednesday	Christmas Day
+28 December 2024	Saturday	Fourth Saturday
+28 December 2024	Saturday	Fourth Saturday
+31 December 2024	Tuesday	New Year's Eve
+
+

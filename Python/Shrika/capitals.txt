@@ -1,0 +1,7 @@
+india,new delhi
+usa,washington dc
+uk,london
+france,paris
+italy,rome
+russia,moscow
+uae,dubai
