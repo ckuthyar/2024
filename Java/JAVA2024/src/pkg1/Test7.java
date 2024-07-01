@@ -7,6 +7,7 @@ public class Test7 {
 		String[]arr1=s1.split("\\.");
 		System.out.println(arr1[0]);
 		System.out.println(arr1[1]);
+		System.out.println("Git reorg");
 
 	}
 
