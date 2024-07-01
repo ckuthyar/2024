@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container{
+            border:3px solid red;
+            width:40%;
+            padding:5px;
+        }
+        #ta1{
+            border-radius: 5px;
+        }
+        #label1{
+            padding-right:20px;
+        }
+        #label2{
+            padding-right:26px;
+        }
+        #label3{
+            padding-right:12px;
+        }
+        #try{
+            width:100%;
+            background-color: blue;
+            color:white
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <label id="label1">Color: </label>
+        <input type="color" name="color" id="color"><br>
+        <label id="label2">Font: </label>
+        <select id="font">
+            <option disabled>Select Font</option>
+            <option value="Courier New">Courier New</option>
+            <option value="Bahnschrift Light">Bahnschrift Light</option>
+            <option value="Consolas">Consolas</option>
+        </select><br>
+        <label id="label3">Theme: </label>
+        <select id="theme">
+            <option value="black">Dark</option>
+            <option value="white">Light</option>
+        </select><br>
+        <button id="try">Try</button>
+        
+    </div> <br>
+
+    <textarea placeholder="enter today's news here" id="ta1" rows="10" cols="40"></textarea>
+    <script>
+       document.getElementById('try').onclick=function(){
+        let color1=document.getElementById('color').value;
+        let font1=document.getElementById('font').value;
+        let theme1=document.getElementById('theme').value;
+        let textarea=document.getElementById('ta1');
+        textarea.style.color=color1;
+        textarea.style.fontFamily=font1;
+        textarea.style.backgroundColor=theme1;
+       }
+        
+        
+    </script>
+    
+    
+    
+</body>
+</html>
