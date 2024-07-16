@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Bulb ON-OFF</title>
+</head>
+<body>
+	<img id="img1" src="bulb2.gif">
+	<script type="text/javascript">
+		var pic1=document.getElementById("img1");
+		pic1.onclick=function(){
+			if (pic1.src.match("bulb1")){
+				pic1.src="bulb2.gif";
+			}
+			else{
+				pic1.src="bulb1.gif";
+			}
+		}
+	</script>
+
+</body>
+</html>
